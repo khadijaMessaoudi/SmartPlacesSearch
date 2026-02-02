@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324897105944",
+    "project_id": "favoriteplaces-a3f97",
+    "storage_bucket": "favoriteplaces-a3f97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324897105944:android:82f6466d921c3f9d55fb6d",
+        "android_client_info": {
+          "package_name": "com.example.smart_places"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7c1Won8LKjG2z5pV1px-8uOf9SkdeP_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
